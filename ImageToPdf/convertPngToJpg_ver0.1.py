@@ -4,8 +4,8 @@
 import os
 from PIL import Image
 
-dirname_read="C:/Greenshot/PLUK Branch Assembly June 2021/png/"  # Note the trailing slash
-dirname_write="C:/Greenshot/PLUK Branch Assembly June 2021/jpg/"
+dirname_read="C:/GitHub/PythonStuff/ImageToPdf/"  # Note the trailing slash
+dirname_write="C:/GitHub/PythonStuff/ImageToPdf/"
 names=os.listdir(dirname_read)
 count=0
 for name in names:
