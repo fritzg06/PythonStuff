@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ceb0865d-1daa-4a25-a8d3-5bd84e81dd9a" name="Changes" comment="" />
+    <list default="true" id="016f6ad0-3b50-4342-b297-69b4ee5d1419" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,20 +16,27 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2EMnYsARP8ancRDDeq7NDH4blA8" />
+  <component name="ProjectId" id="2F0LZcsV2bajuKUijjOUjavglYB" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/fritz/Documents/GitHub/PythonStuff/ImageToPdf&quot;
+  }
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="ceb0865d-1daa-4a25-a8d3-5bd84e81dd9a" name="Changes" comment="" />
-      <created>1662414373044</created>
+      <changelist id="016f6ad0-3b50-4342-b297-69b4ee5d1419" name="Changes" comment="" />
+      <created>1663624114115</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1662414373044</updated>
+      <updated>1663624114115</updated>
     </task>
     <servers />
   </component>

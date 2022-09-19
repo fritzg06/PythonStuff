@@ -8,7 +8,7 @@ import json
 
 # Parsing the list of images
 list = os.listdir(".")
-listImage = [x for x in list if x.endswith(".jpg")]
+listImage = [x for x in list if x.endswith(".png")]
 print(json.dumps(listImage, indent=4))
 print("Total number of images to convert is", len(listImage))
 
